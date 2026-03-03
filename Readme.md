@@ -26,8 +26,13 @@
 
 
 <div align="center">
-  <video src="assets/iSoftBet.mp4" controls width="800"></video>
-  <p><em>Game demo video</em></p>
+
+  <a href="https://github.com/igamezgamble/slot-games-casino-slot-machine/raw/master/assets/iSoftBet.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/▶_Watch_game_demo_video-00A86B?style=for-the-badge&logo=video" alt="Watch game demo video" />
+  </a>
+
+  <p><em>Click the button above to watch the game demo video (opens in new tab)</em></p>
+
 </div>
 
 ## 🎮 **Supported Game Types**
