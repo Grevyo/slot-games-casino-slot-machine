@@ -26,8 +26,8 @@
 
 
 <div align="center">
-  <video src="https://github.com/igamezgamble/slot-games-casino-slot-machine/raw/master/assets/iSoftBet.mp4" controls width="800"></video>
-  <p><em>Game demo video</em></p>
+  <img src="https://github.com/igamezgamble/slot-games-casino-slot-machine/raw/master/assets/demo.gif" alt="Game demo video" width="800">
+  <p><em>Game demo</em> · <a href="https://github.com/igamezgamble/slot-games-casino-slot-machine/raw/master/assets/iSoftBet.mp4">Watch full video</a></p>
 </div>
 
 ## 🎮 **Supported Game Types**
