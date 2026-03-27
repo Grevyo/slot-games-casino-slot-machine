@@ -1,7 +1,15 @@
 {
     "name": "loshmis/vanguard",
     "description": "Advanced PHP Login and User Management",
-    "keywords": ["advanced", "secure", "login", "user management", "authentication", "authorization", "register"],
+    "keywords": [
+        "advanced",
+        "secure",
+        "login",
+        "user management",
+        "authentication",
+        "authorization",
+        "register"
+    ],
     "type": "project",
     "repositories": [],
     "require": {
@@ -39,10 +47,7 @@
         ],
         "psr-4": {
             "VanguardLTE\\": "app/"
-        },
-        "files": [
-            "app/Support/helpers.php"
-        ]
+        }
     },
     "autoload-dev": {
         "psr-4": {
@@ -51,8 +56,7 @@
     },
     "extra": {
         "laravel": {
-            "dont-discover": [
-            ]
+            "dont-discover": []
         }
     },
     "scripts": {
@@ -62,10 +66,8 @@
         "post-create-project-cmd": [
             "@php artisan key:generate"
         ],
-
         "post-autoload-dump": [
-            "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
-            "@php artisan package:discover"
+            "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump"
         ]
     },
     "config": {
